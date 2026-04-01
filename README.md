@@ -89,7 +89,7 @@ Both methods converge on the same high-risk subgroup (Cluster 5: mean age 68.2, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/stroke-prediction-analysis.git
+git clone https://github.com/up2156913/stroke-prediction-analysis.git
 cd stroke-prediction-analysis
 
 # Install dependencies
